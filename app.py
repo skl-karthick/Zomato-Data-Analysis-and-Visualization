@@ -15,7 +15,7 @@ def load_zomato_data():
 zomato_df = load_zomato_data()
 
 def load_country_code():
-    country_code_path = pd.read_excel("C:/Users/sklka/Downloads/Country-Code (1).xlsx")
+    country_code_path = pd.read_excel('Country-Code (1).xlsx')
     return country_code_path
 
 country_code_df = load_country_code()
