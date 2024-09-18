@@ -3,3 +3,4 @@ plotly_express
 streamlit
 matplotlib
 plotly
+openpyxl
